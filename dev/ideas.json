@@ -1,0 +1,988 @@
+[
+  {
+    "id": 1,
+    "title": "Inselweg",
+    "icon": "🐊",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "5–15",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "Reifen, Matten oder Zeitungen",
+    "description": "Die Gruppe baut aus wenigen Inseln einen Weg und versucht gemeinsam, das andere Ufer zu erreichen.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 2,
+    "title": "Geräusche-Detektive",
+    "icon": "👂",
+    "category": "Wahrnehmung",
+    "age": "3–6",
+    "group": "2–15",
+    "duration": "5",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Eine Minute bewusst lauschen. Danach werden Geräusche gesammelt, beschrieben und nach nah, fern, laut oder leise sortiert.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 3,
+    "title": "Kartonstadt",
+    "icon": "📦",
+    "category": "Bauen",
+    "age": "3–6",
+    "group": "3–20",
+    "duration": "30+",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Kartons, Klebeband, Stifte",
+    "description": "Aus Kartons entstehen Häuser, Wege und Fantasieorte. Anschließend wird die Stadt gemeinsam bespielt und weitergebaut.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 4,
+    "title": "Farben-Safari",
+    "icon": "🌈",
+    "category": "Bewegung",
+    "age": "U3–6",
+    "group": "3–20",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Eine Farbe wird genannt. Die Kinder entdecken passende Dinge in ihrer Umgebung und bestimmen anschließend selbst die nächste Farbe.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 5,
+    "title": "Papprollen-Kugelbahn",
+    "icon": "🌀",
+    "category": "Bauen",
+    "age": "4–6",
+    "group": "1–8",
+    "duration": "30",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Papprollen, Klebeband, große Kugeln",
+    "description": "Eine Kugelbahn planen, befestigen, testen und so verändern, dass die Kugel möglichst weit rollt.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 6,
+    "title": "Sprudelgas-Ballon",
+    "icon": "🎈",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "PET-Flasche, Essig, Backpulver, Luftballon",
+    "description": "Beobachten, wie bei der Mischung von Essig und Backpulver Gas entsteht und einen Ballon füllt. Nur begleitet durchführen.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 7,
+    "title": "Was schwimmt?",
+    "icon": "💧",
+    "category": "Forschen",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Wasserschale, verschiedene Gegenstände",
+    "description": "Vor dem Test vermuten die Kinder, was schwimmt oder sinkt. Danach wird ausprobiert, verglichen und erneut gefragt.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 8,
+    "title": "Mini-Fallschirm",
+    "icon": "🪂",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "30",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "mehr",
+    "materials": "leichte Folie, Schnur, Knete oder Spielfigur",
+    "description": "Einen kleinen Fallschirm bauen, fallen lassen und durch Veränderungen an Größe oder Gewicht weiter erforschen.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 9,
+    "title": "Wasserberg",
+    "icon": "🪙",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Münzen, Pipette, Wasser",
+    "description": "Tropfen langsam auf eine Münze geben, zählen und beobachten, wie sich das Wasser über die Oberfläche wölbt.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 10,
+    "title": "Magnet-Detektive",
+    "icon": "🧲",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–8",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "kindgerechte Magnete, verschiedene Gegenstände",
+    "description": "Erst vermuten, dann testen: Welche Materialien werden angezogen? Ergebnisse gemeinsam sortieren und neue Fragen entwickeln.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 11,
+    "title": "Flaschen-Tornado",
+    "icon": "🌪️",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "20",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "mehr",
+    "materials": "2 feste PET-Flaschen, Wasser, passender Tornado-Adapter",
+    "description": "Zwei Flaschen verbinden und ausprobieren, wie das Wasser von einer in die andere gelangt. Durch kreisende Bewegung entsteht ein Wirbel.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 12,
+    "title": "Farben wandern im Zucker",
+    "icon": "🟪",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "20",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Zuckerwürfel, Wasser, Lebensmittelfarbe, Pipetten, Teller",
+    "description": "Gefärbtes Wasser auf getrennte Zuckerwürfel tropfen und beobachten, wie sich Flüssigkeit und Farben ausbreiten und begegnen.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 13,
+    "title": "Tier-Orchester",
+    "icon": "🎵",
+    "category": "Musik",
+    "age": "U3–6",
+    "group": "3–20",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "optional Instrumente",
+    "description": "Tieren werden Klänge oder Bewegungen zugeordnet. Ein Kind dirigiert, welche Tiere gerade zu hören oder zu sehen sind.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 14,
+    "title": "Natur-Mandala",
+    "icon": "🍂",
+    "category": "Natur",
+    "age": "3–6",
+    "group": "1–15",
+    "duration": "20",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "Blätter, Steine, Stöcke",
+    "description": "Naturmaterialien sammeln und daraus gemeinsam Muster oder freie Bodenbilder gestalten.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 15,
+    "title": "Gemeinschaftsinseln",
+    "icon": "📰",
+    "category": "Kooperation",
+    "age": "3–6",
+    "group": "5–20",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "Matten oder Zeitungen",
+    "description": "Auf ein Signal finden alle auf den vorhandenen Inseln Platz. Die Inseln werden weniger, aber niemand scheidet aus.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 16,
+    "title": "Riesengemälde",
+    "icon": "🖼️",
+    "category": "Kreativ",
+    "age": "U3–6",
+    "group": "3–20",
+    "duration": "30",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "großes Papier, Farbe, Rollen, Schwämme",
+    "description": "Eine große Fläche wird gemeinsam mit unterschiedlichen Werkzeugen, Bewegungen und Spuren gestaltet.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 17,
+    "title": "Ballon gemeinsam oben halten",
+    "icon": "🎈",
+    "category": "Bewegung",
+    "age": "U3–4",
+    "group": "1–8",
+    "duration": "5",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "Ballon",
+    "description": "Einen Ballon gemeinsam möglichst lange in Bewegung halten. Das Spiel funktioniert auch im Sitzen.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 18,
+    "title": "Fühlbeutel",
+    "icon": "👜",
+    "category": "Wahrnehmung",
+    "age": "U3–6",
+    "group": "1–8",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Stoffbeutel, ungefährliche Alltagsgegenstände",
+    "description": "Gegenstände ertasten, beschreiben, zuordnen oder durch Zeigen und Bildkarten wiedererkennen.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 19,
+    "title": "Wäscheklammer-Werkstatt",
+    "icon": "🧷",
+    "category": "Feinmotorik",
+    "age": "3–6",
+    "group": "1–6",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Wäscheklammern, Schalen, Karton",
+    "description": "Klammern sortieren, an Kartonränder stecken und kleine Muster oder Transportaufgaben erfinden.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 20,
+    "title": "Becher-Baumeister",
+    "icon": "🥤",
+    "category": "Bauen",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "stabile Becher",
+    "description": "Hohe, breite oder besonders stabile Bauwerke ausprobieren und gemeinsam herausfinden, wodurch sie stehen bleiben.",
+    "education": "Mathematische Bildung"
+  },
+  {
+    "id": 21,
+    "title": "Schatten-Zeitreise",
+    "icon": "☀️",
+    "category": "Forschen",
+    "age": "4–6",
+    "group": "1–10",
+    "duration": "15",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "Kreide optional",
+    "description": "Schatten entdecken und markieren. Später am Tag prüfen, was sich an Richtung und Länge verändert hat.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 22,
+    "title": "Papierbrücke",
+    "icon": "🌉",
+    "category": "Bauen",
+    "age": "4–6",
+    "group": "1–6",
+    "duration": "20",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Papier, zwei Bausteine, Spielfiguren",
+    "description": "Papier zwischen zwei Auflagen legen und durch Falten, Rollen oder mehrere Schichten tragfähiger machen.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 23,
+    "title": "Klangpaare",
+    "icon": "🔔",
+    "category": "Musik",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "mehr",
+    "materials": "gleiche blickdichte Dosen, unterschiedliche Füllungen",
+    "description": "Je zwei Dosen gleich füllen und passende Klangpaare nur durch Hören finden.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 24,
+    "title": "Silben-Sprünge",
+    "icon": "🦘",
+    "category": "Sprache",
+    "age": "4–6",
+    "group": "2–12",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Namen und Begriffe in Silben sprechen und jede Silbe mit einer Bewegung begleiten.",
+    "education": "Sprache und Kommunikation"
+  },
+  {
+    "id": 25,
+    "title": "Reimlabor",
+    "icon": "🔎",
+    "category": "Sprache",
+    "age": "4–6",
+    "group": "2–12",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Zu einfachen Wörtern echte oder erfundene Reimwörter suchen. Quatschwörter sind ausdrücklich erlaubt.",
+    "education": "Sprache und Kommunikation"
+  },
+  {
+    "id": 26,
+    "title": "Drei-Dinge-Geschichte",
+    "icon": "💭",
+    "category": "Sprache",
+    "age": "3–6",
+    "group": "2–10",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "3–5 beliebige Gegenstände",
+    "description": "Einige Gegenstände auswählen und gemeinsam eine Geschichte erfinden, in der alle vorkommen.",
+    "education": "Sprache und Kommunikation"
+  },
+  {
+    "id": 27,
+    "title": "Formen-Safari",
+    "icon": "🔺",
+    "category": "Mathe",
+    "age": "3–6",
+    "group": "1–12",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Kreise, Dreiecke und Vierecke in der Umgebung suchen, zeigen und miteinander vergleichen.",
+    "education": "Mathematische Bildung"
+  },
+  {
+    "id": 28,
+    "title": "Musterstraße",
+    "icon": "🟡",
+    "category": "Mathe",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Bausteine, Deckel oder Naturmaterial",
+    "description": "Einfache Reihenfolgen legen, beschreiben und von anderen Kindern fortsetzen lassen.",
+    "education": "Mathematische Bildung"
+  },
+  {
+    "id": 29,
+    "title": "Sortierlabor",
+    "icon": "🧺",
+    "category": "Mathe",
+    "age": "U3–6",
+    "group": "1–6",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "große Deckel, Bausteine oder Naturmaterial",
+    "description": "Nach Farbe, Form oder Größe sortieren – oder eine eigene Sortierregel erfinden und erklären.",
+    "education": "Mathematische Bildung"
+  },
+  {
+    "id": 30,
+    "title": "Gefühls-Stopp",
+    "icon": "😀",
+    "category": "Gefühle",
+    "age": "3–6",
+    "group": "3–20",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "Musik",
+    "description": "Zur Musik bewegen. Beim Stopp wird ein Gefühl genannt und mit Gesicht, Körperhaltung oder Bewegung dargestellt.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 31,
+    "title": "Gemeinsam bis zehn",
+    "icon": "🤝",
+    "category": "Kooperation",
+    "age": "4–6",
+    "group": "4–20",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Die Gruppe zählt gemeinsam, ohne Reihenfolge festzulegen. Sprechen zwei gleichzeitig, beginnt die Gruppe entspannt neu.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 32,
+    "title": "Stärken-Ball",
+    "icon": "💬",
+    "category": "Kooperation",
+    "age": "4–6",
+    "group": "4–15",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "weicher Ball",
+    "description": "Beim Weitergeben des Balls wird eine Stärke, eine freundliche Beobachtung oder etwas Schönes aus der Gruppe genannt.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 33,
+    "title": "Federatem",
+    "icon": "🪶",
+    "category": "Ruhe",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "5",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Federn oder leichte Papierstücke",
+    "description": "Mit ruhigem Ausatmen eine Feder langsam bewegen und verschiedene Atemstärken ausprobieren.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 34,
+    "title": "Leise Löwen",
+    "icon": "🦁",
+    "category": "Ruhe",
+    "age": "U3–6",
+    "group": "2–15",
+    "duration": "5",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Erst bewegen sich alle wie kräftige Löwen, dann immer langsamer und leiser, bis die Löwen ruhen.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 35,
+    "title": "Wolkenkino",
+    "icon": "☁️",
+    "category": "Natur",
+    "age": "3–6",
+    "group": "1–12",
+    "duration": "10",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "Decke optional",
+    "description": "Wolken beobachten und erzählen, welche Formen, Figuren und Veränderungen entdeckt werden.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 36,
+    "title": "Stock-Bilder",
+    "icon": "🪵",
+    "category": "Natur",
+    "age": "3–6",
+    "group": "1–12",
+    "duration": "20",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "Stöcke, Steine, Blätter",
+    "description": "Mit Fundstücken Figuren, Wege, Muster oder Fantasiebilder auf dem Boden legen.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 37,
+    "title": "Müllsortier-Werkstatt",
+    "icon": "♻️",
+    "category": "Nachhaltigkeit",
+    "age": "4–6",
+    "group": "2–10",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "saubere Verpackungen, Sortierbehälter",
+    "description": "Saubere Verpackungen sortieren und gemeinsam überlegen, was wiederverwendet oder vermieden werden könnte.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 38,
+    "title": "Schwamm-Transport",
+    "icon": "🧽",
+    "category": "Draußen",
+    "age": "U3–6",
+    "group": "2–12",
+    "duration": "15",
+    "place": [
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Schwämme, Eimer, Wasser",
+    "description": "Wasser nur mit Schwämmen zwischen Gefäßen transportieren. Gemeinsam herausfinden, welche Strategie gut funktioniert.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 39,
+    "title": "Kreide-Verkehrsstadt",
+    "icon": "🚦",
+    "category": "Rollenspiel",
+    "age": "4–6",
+    "group": "3–15",
+    "duration": "30+",
+    "place": [
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Straßenkreide, Fahrzeuge optional",
+    "description": "Straßen, Übergänge und Orte aufmalen und gemeinsam Regeln für die selbst erfundene Verkehrsstadt entwickeln.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 40,
+    "title": "Forscher-Ausgrabung",
+    "icon": "🦖",
+    "category": "Forschen",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Sand, Pinsel, geeignete Fundstücke",
+    "description": "Vergrabene Fundstücke vorsichtig freilegen, vergleichen, sortieren und Vermutungen dazu äußern.",
+    "education": "Naturwissenschaftlich-technische Bildung"
+  },
+  {
+    "id": 41,
+    "title": "Fantasieplaneten",
+    "icon": "🪐",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "3–15",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Jeder Fantasieplanet bekommt eine eigene Bewegungsart: schweben, hüpfen, schleichen, drehen oder etwas Neues.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 42,
+    "title": "Schatzweg",
+    "icon": "🏴‍☠️",
+    "category": "Draußen",
+    "age": "3–6",
+    "group": "3–15",
+    "duration": "20",
+    "place": [
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Kreide oder Markierungen",
+    "description": "Ein kurzer Weg mit Bewegungs-, Such- und Teamaufgaben führt gemeinsam zu einem versteckten Ziel.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 43,
+    "title": "Tücher im Wind",
+    "icon": "🧣",
+    "category": "U3",
+    "age": "U3–4",
+    "group": "1–8",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "leichte Tücher",
+    "description": "Tücher werfen, schweben lassen, verstecken und beobachten, wie unterschiedlich sie sich bewegen.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 44,
+    "title": "Karton-Tunnel",
+    "icon": "🚇",
+    "category": "U3",
+    "age": "U3–4",
+    "group": "1–6",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "große stabile Kartons",
+    "description": "Kartons als Tunnel und Durchgänge aufstellen und von den Kindern frei erkunden und verändern lassen.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 45,
+    "title": "Spiegelgesichter",
+    "icon": "🪞",
+    "category": "U3",
+    "age": "U3–6",
+    "group": "1–6",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "bruchsicherer Spiegel",
+    "description": "Gesichter, Mundbewegungen und Gefühle im Spiegel entdecken und gegenseitig nachmachen.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 46,
+    "title": "Tuch-Wellen",
+    "icon": "🌊",
+    "category": "Inklusiv",
+    "age": "U3–6",
+    "group": "4–20",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "großes Tuch oder Schwungtuch",
+    "description": "Gemeinsam kleine und große Wellen erzeugen. Beteiligung ist im Sitzen oder Stehen möglich.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 47,
+    "title": "Ball-Rundreise",
+    "icon": "⚽",
+    "category": "Inklusiv",
+    "age": "3–6",
+    "group": "3–12",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "weicher Ball",
+    "description": "Den Ball rollen, schieben oder weitergeben und gemeinsam immer neue Wege durch die Gruppe erfinden.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 48,
+    "title": "Klänge zeigen",
+    "icon": "👋",
+    "category": "Inklusiv",
+    "age": "3–6",
+    "group": "2–10",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Instrumente oder Alltagsklänge",
+    "description": "Klänge können durch Sprache, Bild, Gebärde, Bewegung oder Zeigen zugeordnet werden.",
+    "education": "Sprache und Kommunikation"
+  },
+  {
+    "id": 49,
+    "title": "Aufräum-Mission",
+    "icon": "🚀",
+    "category": "Übergang",
+    "age": "3–6",
+    "group": "3–20",
+    "duration": "5",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "vorhandenes Spielmaterial",
+    "description": "Aufräumen als gemeinsame Suchmission: etwa alles Runde, alles Rote oder alles aus einem Bereich findet seinen Platz.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "id": 50,
+    "title": "Wartezeit-Wörter",
+    "icon": "🔤",
+    "category": "Übergang",
+    "age": "4–6",
+    "group": "2–12",
+    "duration": "5",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Thema wählen und reihum passende Begriffe sammeln. Wiederholungen sind erlaubt, damit niemand ausscheidet.",
+    "education": "Sprache und Kommunikation"
+  },
+  {
+    "id": 51,
+    "title": "Was fehlt?",
+    "icon": "❓",
+    "category": "Wahrnehmung",
+    "age": "3–6",
+    "group": "2–10",
+    "duration": "5",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "3–6 Gegenstände",
+    "description": "Gegenstände betrachten, Augen schließen, einen Gegenstand entfernen und gemeinsam herausfinden, was fehlt.",
+    "education": "Körper, Gesundheit und Ernährung"
+  },
+  {
+    "id": 52,
+    "title": "Bewegung weitergeben",
+    "icon": "🎲",
+    "category": "Bewegung",
+    "age": "3–6",
+    "group": "2–15",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind erfindet eine Bewegung, alle übernehmen sie kurz. Danach gibt ein anderes Kind eine neue Bewegung vor.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 53,
+    "title": "Blätter-Frottage",
+    "icon": "🍃",
+    "category": "Kreativ",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Blätter, Papier, Wachsmaler",
+    "description": "Blätter unter Papier legen und ihre Strukturen durch flaches Reiben mit Wachsmalern sichtbar machen.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 54,
+    "title": "Eis-Spuren",
+    "icon": "🧊",
+    "category": "Kreativ",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "mehr",
+    "materials": "gefärbte Eiswürfel, Papier",
+    "description": "Mit gefärbtem Eis Spuren auf Papier erzeugen und beobachten, wie sich die Farben beim Schmelzen verändern.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 55,
+    "title": "Malen ohne Pinsel",
+    "icon": "🎨",
+    "category": "Kreativ",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "20",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Farbe, Papier, Schwämme, Karton, Naturmaterial",
+    "description": "Mit ungewöhnlichen Werkzeugen malen und vergleichen, welche Spuren und Muster entstehen.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 56,
+    "title": "Klang-Spaziergang",
+    "icon": "🎧",
+    "category": "Draußen",
+    "age": "3–6",
+    "group": "2–15",
+    "duration": "15",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Bei einem kurzen Rundgang bewusst Klänge suchen und anschließend gemeinsam eine erzählte Klangkarte erstellen.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 57,
+    "title": "Zapfen-Ziele",
+    "icon": "🌲",
+    "category": "Draußen",
+    "age": "3–6",
+    "group": "2–10",
+    "duration": "10",
+    "place": [
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "Zapfen, Stöcke",
+    "description": "Mit Stöcken Zielbereiche markieren und Zapfen hineinrollen oder werfen – ohne Ausscheiden und ohne Punktedruck.",
+    "education": "Bewegung"
+  },
+  {
+    "id": 58,
+    "title": "Samen-Tagebuch",
+    "icon": "🌱",
+    "category": "Natur",
+    "age": "3–6",
+    "group": "1–8",
+    "duration": "30+",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "Kresse oder Bohnen, Erde/Watte, Gefäß",
+    "description": "Samen einsetzen und über mehrere Tage Veränderungen beobachten, malen oder fotografieren.",
+    "education": "Ökologische Bildung"
+  },
+  {
+    "id": 59,
+    "title": "Klatsch-Echo",
+    "icon": "👏",
+    "category": "Musik",
+    "age": "3–6",
+    "group": "2–15",
+    "duration": "5",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Eine Person klatscht einen kurzen Rhythmus, die Gruppe antwortet als Echo. Danach wechselt die Leitung.",
+    "education": "Musisch-ästhetische Bildung"
+  },
+  {
+    "id": 60,
+    "title": "Gefühls-Wetter",
+    "icon": "🌤️",
+    "category": "Gefühle",
+    "age": "3–6",
+    "group": "2–15",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "optional Wetterbilder",
+    "description": "Die eigene Stimmung als Wetter beschreiben oder zeigen: sonnig, windig, neblig, regnerisch – ohne Begründungszwang.",
+    "education": "Soziale und (inter-)kulturelle Bildung"
+  }
+]
