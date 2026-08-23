@@ -984,5 +984,390 @@
     "materials": "optional Wetterbilder",
     "description": "Die eigene Stimmung als Wetter beschreiben oder zeigen: sonnig, windig, neblig, regnerisch – ohne Begründungszwang.",
     "education": "Soziale und (inter-)kulturelle Bildung"
+  },
+  {
+    "title": "UNO-Bingo",
+    "icon": "🃏",
+    "category": "Mathe",
+    "age": "4–6",
+    "group": "2–6",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "UNO-Karten, Bingo-Blätter mit den Zahlen 1–9, Stifte oder Marker",
+    "description": "Jedes Kind erhält ein Zahlenblatt von 1 bis 9. Reihum werden UNO-Karten gezogen und passende Zahlen markiert. Doppelte Zahlen und Sonderkarten kommen auf einen Ablagestapel. Wer zuerst alle Felder markiert hat, ruft Bingo.",
+    "education": "Mathematische Bildung",
+    "id": 61
+  },
+  {
+    "title": "LEGO-Kugellabyrinth",
+    "icon": "🟢",
+    "category": "Bauen",
+    "age": "4–6",
+    "group": "1–4",
+    "duration": "30",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "wenig",
+    "materials": "Klemmbausteine, Bauplatte, Murmel",
+    "description": "Aus Klemmbausteinen entsteht ein Labyrinth mit Wegen, Kurven und Sackgassen. Danach wird die Platte vorsichtig bewegt, damit eine Murmel bis zum Ziel rollt. Anschließend kann umgebaut und weiter ausprobiert werden.",
+    "education": "Naturwissenschaftlich-technische Bildung",
+    "id": 62
+  },
+  {
+    "title": "Stille Post",
+    "icon": "🤫",
+    "category": "Sprache",
+    "age": "4–6",
+    "group": "5–20",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Wort oder kurzer Satz wird leise von Kind zu Kind weitergeflüstert. Am Ende sagt das letzte Kind laut, was angekommen ist. Gemeinsam wird mit der ursprünglichen Nachricht verglichen.",
+    "education": "Sprache und Kommunikation",
+    "id": 63
+  },
+  {
+    "title": "Ich packe meinen Koffer",
+    "icon": "🧳",
+    "category": "Sprache",
+    "age": "4–6",
+    "group": "3–15",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Reihum wird der Satz „Ich packe meinen Koffer und nehme … mit“ ergänzt. Vor jedem neuen Gegenstand werden die bereits genannten Dinge in der richtigen Reihenfolge wiederholt.",
+    "education": "Sprache und Kommunikation",
+    "id": 64
+  },
+  {
+    "title": "Katz und Maus",
+    "icon": "🐱",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "10–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Die Gruppe bildet einen Kreis. Eine Maus versucht einer Katze zu entkommen. Die Kreiskinder können der Maus Wege öffnen und den Kreis als Schutzraum nutzen. Nach einer kurzen Runde werden die Rollen gewechselt.",
+    "education": "Bewegung",
+    "origin": "Kreisspiel – nach einer Spielidee der Kolpingjugend",
+    "id": 65
+  },
+  {
+    "title": "Wer hat angefangen?",
+    "icon": "🌍",
+    "category": "Wahrnehmung",
+    "age": "4–6",
+    "group": "6–20",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind schaut kurz weg. Im Kreis wird heimlich bestimmt, wer Bewegungen vorgibt. Alle machen die wechselnden Bewegungen möglichst unauffällig nach. Das ratende Kind versucht herauszufinden, wer die Gruppe anführt.",
+    "education": "Soziale und (inter-)kulturelle Bildung",
+    "origin": "Spielidee aus Südafrika",
+    "id": 66
+  },
+  {
+    "title": "Apfel, Birne, Kirsche",
+    "icon": "🍎",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "5–15",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "Springseil",
+    "description": "Die Kinder wählen Obstnamen. Zwei Kinder schwingen ein Seil und rufen nacheinander Obstsorten. Wer seinen Namen hört, kommt dazu und springt mit. Nach und nach wird die Gruppe am Seil größer.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Israel",
+    "id": 67
+  },
+  {
+    "title": "Hühnerjagd",
+    "icon": "🐔",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "6–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind ist der Adler und versucht die Hühner zu fangen. Gefangene Kinder gehen in die Hocke und können von anderen durch eine Berührung wieder befreit werden. Danach wechselt die Fangrolle.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Japan",
+    "id": 68
+  },
+  {
+    "title": "Wie bist du übers Meer gekommen?",
+    "icon": "🌊",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "5–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "zwei markierte Linien",
+    "description": "Zwischen zwei Ufern gibt ein Kind eine Bewegungsart vor, zum Beispiel hüpfen oder rückwärts gehen. Alle überqueren damit das Meer, während das Kind ebenfalls so unterwegs ist und versucht, jemanden zu fangen.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Dänemark",
+    "id": 69
+  },
+  {
+    "title": "Die Hexe schläft",
+    "icon": "🧙",
+    "category": "Wahrnehmung",
+    "age": "4–6",
+    "group": "5–15",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind steht mit geschlossenen Augen als Hexe in der Mitte. Ein anderes nähert sich möglichst leise. Hört die Hexe etwas, zeigt sie in die vermutete Richtung. Wer die Hexe unbemerkt berührt, übernimmt die Rolle.",
+    "education": "Körper, Gesundheit und Ernährung",
+    "origin": "Spielidee aus Deutschland",
+    "id": 70
+  },
+  {
+    "title": "Lach nicht!",
+    "icon": "😐",
+    "category": "Gefühle",
+    "age": "4–6",
+    "group": "4–15",
+    "duration": "10",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind geht ernst durch den Kreis und versucht, die anderen mit dem Satz „Lach nicht!“ aus der Reserve zu locken. Wer lachen muss, bleibt natürlich dabei – anschließend übernimmt einfach ein anderes Kind die Rolle.",
+    "education": "Soziale und (inter-)kulturelle Bildung",
+    "origin": "Spielidee aus Brasilien – KitaBox-Variante ohne Ausscheiden",
+    "id": 71
+  },
+  {
+    "title": "Spinne und Fliege",
+    "icon": "🕷️",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "10–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Die Fliege steht zunächst im Kreis, die Spinne außerhalb. Die Kreiskinder schützen die Fliege und öffnen ihr bei Bedarf einen Fluchtweg. Nach wenigen Minuten oder nach dem Fangen werden die Rollen neu verteilt.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Paraguay",
+    "id": 72
+  },
+  {
+    "title": "Henne und Raupe",
+    "icon": "🐛",
+    "category": "Kooperation",
+    "age": "4–6",
+    "group": "6–15",
+    "duration": "10",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Die Kinder bilden hintereinander eine Raupe und halten Kontakt zum Kind vor ihnen. Eine Henne versucht, das letzte Raupenkind zu erreichen. Die Raupe bewegt sich gemeinsam und versucht zusammenzubleiben. Danach wechseln die Rollen.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Marokko – KitaBox-Variante ohne Ausscheiden",
+    "id": 73
+  },
+  {
+    "title": "Kleine Mühle",
+    "icon": "⭕",
+    "category": "Mathe",
+    "age": "4–6",
+    "group": "2",
+    "duration": "15",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "wenig",
+    "materials": "einfacher Mühle-Spielplan, je drei Spielsteine in zwei Farben",
+    "description": "Zwei Kinder setzen abwechselnd je drei Steine auf einen einfachen Spielplan. Danach dürfen die Steine entlang der Linien verschoben werden. Ziel ist es, drei eigene Steine in eine Reihe zu bringen.",
+    "education": "Mathematische Bildung",
+    "origin": "Spielidee aus dem Kongo",
+    "id": 74
+  },
+  {
+    "title": "Wer war's?",
+    "icon": "👀",
+    "category": "Wahrnehmung",
+    "age": "4–6",
+    "group": "8–14",
+    "duration": "15",
+    "place": [
+      "drinnen"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind schließt die Augen. Ein anderes Kind aus der Gruppe berührt es kurz und setzt sich wieder hin. Danach wird geraten: Wer war es? In der KitaBox-Variante bleiben alle Kinder die ganze Zeit im Spiel.",
+    "education": "Soziale und (inter-)kulturelle Bildung",
+    "origin": "Spielidee aus Togo – KitaBox-Variante ohne Ausscheiden",
+    "id": 75
+  },
+  {
+    "title": "Wie spät ist es, Herr Wolf?",
+    "icon": "🐺",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "5–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "kein Material",
+    "description": "Ein Kind ist der Wolf, die anderen nähern sich auf Zuruf Schritt für Schritt. Irgendwann dreht sich der Wolf um und beginnt eine kurze Fangrunde. Danach wird ein neuer Wolf bestimmt.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Australien",
+    "id": 76
+  },
+  {
+    "title": "Corre, Corre la Guaraca",
+    "icon": "🏃",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "6–20",
+    "duration": "15",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "kleines Tuch oder weicher Gegenstand",
+    "description": "Die Kinder sitzen oder stehen im Kreis, während ein Kind außen herumläuft und unbemerkt ein Tuch hinter jemandem ablegt. Wird es entdeckt, beginnt eine kurze Verfolgungsrunde um den Kreis.",
+    "education": "Bewegung",
+    "origin": "Chilenisches Fangspiel",
+    "id": 77
+  },
+  {
+    "title": "Footbag gemeinsam",
+    "icon": "⚽",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "2–8",
+    "duration": "10",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "weicher Footbag oder kleines Stoffbällchen",
+    "description": "Ein weiches Säckchen wird mit Fuß, Knie oder anderen vereinbarten Körperteilen in Bewegung gehalten. Statt gegeneinander zu spielen, zählt die Gruppe gemeinsam, wie viele Kontakte hintereinander gelingen.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus den USA – kooperative KitaBox-Variante",
+    "id": 78
+  },
+  {
+    "title": "Fange den Drachenschwanz",
+    "icon": "🐉",
+    "category": "Kooperation",
+    "age": "4–6",
+    "group": "6–15",
+    "duration": "10",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "keine",
+    "materials": "optional ein Tuch als Drachenschwanz",
+    "description": "Die Kinder bilden hintereinander einen Drachen. Der Kopf versucht, den eigenen Schwanz zu erreichen, während die ganze Reihe zusammenbleibt. Nach einer kurzen Runde wechseln Kopf und Schwanz.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus China",
+    "id": 79
+  },
+  {
+    "title": "Fang den Stock",
+    "icon": "🪵",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "4–12",
+    "duration": "10",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "leichter, kindgerechter Stab",
+    "description": "Ein Stab wird als Reaktionsspiel in der Gruppe eingesetzt: aufmerksam beobachten, schnell reagieren und den Stab sichern, bevor er zu Boden fällt. Abstände und Regeln werden an die Gruppe angepasst.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Ägypten – nach UNICEF „Spiele rund um die Welt“",
+    "id": 80
+  },
+  {
+    "title": "Such den Stein",
+    "icon": "🪨",
+    "category": "Wahrnehmung",
+    "age": "4–6",
+    "group": "4–15",
+    "duration": "10",
+    "place": [
+      "drinnen",
+      "draußen"
+    ],
+    "prep": "keine",
+    "materials": "kleiner Stein oder anderer ungefährlicher Gegenstand",
+    "description": "Ein kleiner Gegenstand wird heimlich weitergegeben oder verborgen. Ein Kind beobachtet die Gruppe und versucht anhand von Blicken und Bewegungen herauszufinden, wo er sich befindet.",
+    "education": "Soziale und (inter-)kulturelle Bildung",
+    "origin": "Spielidee aus Liberia – nach UNICEF „Spiele rund um die Welt“",
+    "id": 81
+  },
+  {
+    "title": "Klatschball",
+    "icon": "👏",
+    "category": "Bewegung",
+    "age": "4–6",
+    "group": "5–15",
+    "duration": "10",
+    "place": [
+      "draußen",
+      "turnhalle"
+    ],
+    "prep": "wenig",
+    "materials": "weicher Ball",
+    "description": "Ball und Rhythmus werden miteinander verbunden. Die Gruppe spielt den Ball weiter und begleitet die Aktion mit Klatschen oder einem gemeinsamen Rhythmus. Im Mittelpunkt steht das gemeinsame Gelingen.",
+    "education": "Bewegung",
+    "origin": "Spielidee aus Kamerun – nach UNICEF „Spiele rund um die Welt“",
+    "id": 82
   }
 ]
